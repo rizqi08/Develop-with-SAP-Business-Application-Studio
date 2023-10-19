@@ -34,3 +34,6 @@ mta_archives/
 build/ui-deployer/
 build/dist/
 env/
+
+.vscode/Develop-with-SAP-Business-Application-Studio/
+.gitignore
